@@ -126,6 +126,7 @@ def addSales():
                         print("addition successful")
                         #success = True
                         break
+        print("Error")
         # if success == True:
         #     print("PASSED")
         # else:
